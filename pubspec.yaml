@@ -1,0 +1,16 @@
+name: adventure_tracking
+description: D&D Adventure Flowchart Editor
+version: 1.1.0+3
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  uuid: ^4.4.2
+  file_picker: ^8.1.4
+
+flutter:
+  uses-material-design: true
